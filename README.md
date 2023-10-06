@@ -5,4 +5,4 @@
 # soal 3 dikerjakan menggunakan php
 # soal 4 dikerjakan menggunakan nodejs
 # soal 5 dikerjakan menggunakan php
-# soal 6 dikerjakan untuk database menggunakan mysql lalu diimplementasikan menggunakan laravel dan ditampilkan dalam aplikasi android menggunakan Flutter
+# soal 6 dikerjakan untuk database menggunakan mysql lalu diimplementasikan menjadi Rest API menggunakan laravel dan ditampilkan dalam aplikasi android menggunakan Flutter
